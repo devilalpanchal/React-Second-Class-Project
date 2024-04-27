@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 30px;
+  margin  : 20px;
+}
+body{
+  background-color: #f0e9e9;
+}
+
+.imgs{
+  width: 300px;
+  height: 200px;
+}
+.cards{
+  border: 2px solid rgb(245, 245, 245);
+  width: 300px;
+  height: 450px;
+  margin: auto;
+  text-align: start;
+  background-color: rgb(204, 247, 176);
+  border-radius: 5px;
+  box-shadow: 0px 0px 5px 1px;
+  margin-bottom: 10px;
+
+
+}
+.cards>p{
+  padding-left: 20px;
+  font-size: 13px;
+}
