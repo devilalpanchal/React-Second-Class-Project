@@ -30,3 +30,10 @@ body{
   padding-left: 20px;
   font-size: 13px;
 }
+.app{
+  text-align: center;
+}
+.input{
+  padding: 10px;
+  width: 20%;
+}
