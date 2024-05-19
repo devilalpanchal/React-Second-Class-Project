@@ -5,6 +5,9 @@
   gap: 30px;
   margin  : 20px;
 }
+.app{
+  text-align: center;
+}
 body{
   background-color: #f0e9e9;
 }
